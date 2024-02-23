@@ -17,7 +17,7 @@
  */
 
 // Package main implements a server for Greeter service.
-package main
+package rpc
 
 import (
 	"context"
